@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.restaurant.app-debug-31:/drawable_ic_food_coffee.xml.flat",
+        "source": "com.restaurant.app-main-33:/drawable/ic_food_coffee.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/layout_activity_menu.xml.flat",
+        "source": "com.restaurant.app-main-33:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.restaurant.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/drawable_ic_food_chicken.xml.flat",
+        "source": "com.restaurant.app-main-33:/drawable/ic_food_chicken.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/drawable_ic_food_fish.xml.flat",
+        "source": "com.restaurant.app-main-33:/drawable/ic_food_fish.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/drawable_ic_food_dessert.xml.flat",
+        "source": "com.restaurant.app-main-33:/drawable/ic_food_dessert.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/layout_activity_feedback.xml.flat",
+        "source": "com.restaurant.app-main-33:/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/drawable_ic_map_placeholder.xml.flat",
+        "source": "com.restaurant.app-main-33:/drawable/ic_map_placeholder.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.restaurant.app-main-33:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/drawable_ic_food_salad.xml.flat",
+        "source": "com.restaurant.app-main-33:/drawable/ic_food_salad.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/layout_activity_checkout.xml.flat",
+        "source": "com.restaurant.app-main-33:/layout/activity_checkout.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/layout_item_menu.xml.flat",
+        "source": "com.restaurant.app-main-33:/layout/item_menu.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/layout_activity_address.xml.flat",
+        "source": "com.restaurant.app-main-33:/layout/activity_address.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/drawable_ic_food_pizza.xml.flat",
+        "source": "com.restaurant.app-main-33:/drawable/ic_food_pizza.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/layout_item_cart.xml.flat",
+        "source": "com.restaurant.app-main-33:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/drawable_ic_food_default.xml.flat",
+        "source": "com.restaurant.app-main-33:/drawable/ic_food_default.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/layout_activity_cart.xml.flat",
+        "source": "com.restaurant.app-main-33:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.restaurant.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/drawable_ic_food_drink.xml.flat",
+        "source": "com.restaurant.app-main-33:/drawable/ic_food_drink.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/layout_item_feedback.xml.flat",
+        "source": "com.restaurant.app-main-33:/layout/item_feedback.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/drawable_ic_food_pasta.xml.flat",
+        "source": "com.restaurant.app-main-33:/drawable/ic_food_pasta.xml"
+    },
+    {
+        "merged": "com.restaurant.app-debug-31:/drawable_ic_food_burger.xml.flat",
+        "source": "com.restaurant.app-main-33:/drawable/ic_food_burger.xml"
+    }
+]
